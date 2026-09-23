@@ -1,16 +1,20 @@
-# Integrate MCP with Copilot
+# Parabéns! :tada:
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
-Olá @brunoibge!
+Eba **brunoibge** você terminou o exercício! Ótimo trabalho :tada:
 
-Aqui é a Mona. Terminei de preparar seu exercício. Espero que goste! 💚
+Se você quiser refazer seus passos, pode sempre revisitar o exercício.
 
-Lembre-se, o ritmo é seu, então não hesite em fazer uma pausa! ☕️
+[![](https://img.shields.io/badge/Voltar%20ao%20Exerc%C3%ADcio-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/brunoibge/skills-integrate-mcp-with-copilot/issues/1)
 
-[![](https://img.shields.io/badge/Ir%20para%20o%20Exerc%C3%ADcio-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/brunoibge/skills-integrate-mcp-with-copilot/issues/1)
+> [!TIP]
+> A Mona não vai te avaliar desta vez! 😉
 
----
 
-&copy; 2025 GitHub &bull; [Código de Conduta](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [Licença MIT](https://gh.io/mit)
+### Quer mais? :raising_hand:
+
+Você gostou deste estilo prático de aprendizado? Não há melhor maneira de aprender do que construindo coisas, certo?!
+
+Vamos manter o ritmo! Visite o catálogo do [GitHub Skills](https://skills.github.com) para encontrar outro exercício prático. :rocket:
 
